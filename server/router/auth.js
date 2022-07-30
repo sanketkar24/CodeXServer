@@ -8,8 +8,6 @@ router.get('/', (req,res)=>{
     res.send('Hello world router.js');
 });
 
-
-
 router.post('/register', async (req,res)=>{
 
     const { email, bid, password, cpassword, aggre } = req.body;
