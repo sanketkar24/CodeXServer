@@ -1,0 +1,64 @@
+.LogInForm{
+    border: 2px;
+    width: 35%;
+    padding: 20px 20px;
+    border-radius: 20px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 300px;
+    background-image: linear-gradient(to bottom right, rgb(242, 196, 252), rgb(213, 134, 250));
+
+}
+
+.FormTitle{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.Email{
+    margin-top: 20px;
+    text-align: left;
+}
+
+.Password1{
+    margin-top: 20px;
+    text-align: left;
+}
+
+
+
+
+.btn{
+    margin-top: 45px;
+    width: 50%;
+    font-size: 27px;
+    background-color: purple;
+    border-radius: 20px;
+    text-decoration-color: white;
+}
+
+
+
+.form-label{
+    padding-top: 15px;
+    font-size: 30px;
+    text-align: left;
+}
+
+.form_input{
+    margin-left: 30px;
+    width: 40%;
+    size: 50px;
+    border: none;
+    border-bottom: 1px solid #000000;
+    background-color:  rgb(242, 196, 252);
+    border-radius: 20px;
+    font-size: 23px;
+}
+
+.haveAccount{
+    margin-top: 20px;
+    font-size: 23px;
+}
+

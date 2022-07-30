@@ -1,0 +1,46 @@
+.DetailsForm{
+    border: 2px;
+    width: 35%;
+    padding: 20px 20px;
+    background-color: rgb(240, 180, 253);
+    border-radius: 20px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+}
+
+.FormTitle{
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.ManName{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.ManAddress{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.skuid{
+    margin-top: 10px;
+    text-align: left;
+}
+
+
+.btn{
+    margin-top: 10px;
+    width: 80%;
+    font-size: 20px;
+}
+
+
+.form-label{
+    padding-top: 15px;
+    font-size: 23px;
+    text-align: left;
+}
+

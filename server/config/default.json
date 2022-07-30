@@ -1,0 +1,10 @@
+{
+    "eSamud": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5000,
+        "dbName": "mongodb+srv://kasrsanket:chin1234@cluster0.2r8f06a.mongodb.net/esamudstack?retryWrites=true&w=majority"
+      }
+    }
+  }
+  
